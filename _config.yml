@@ -1,0 +1,23 @@
+---
+title: Vote Uncommitted
+timezone: America/New_York
+description: STATE dems, write in Uncommitted in the YOUR DATE Presidential Primary election.
+url: TODO
+logo: "/assets/vote-uncommitted.jpg"
+image:
+  path: "/assets/vote-uncommitted.jpg"
+  alt: "Uncommitted logo"
+highlighter: rouge
+markdown: kramdown
+permalink: ":title"
+plugins:
+- jemoji
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+sass:
+  sass_dir: _sass
+  style: compressed
+exclude:
+- README.md
+- Gemfile*
