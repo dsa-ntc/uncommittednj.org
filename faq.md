@@ -16,7 +16,7 @@ Writing in "Uncommitted" will let the Democratic Party and general public know w
 
 ## Do I have to be registered as a Democrat?
 
-Yes, you do in order to vote in the Democratic Presidential Primary Election on April 24, 2024 in PA.
+Yes, you do in order to vote in the Democratic Presidential Primary Election on June 4, 2024 in NJ.
 
 ## Shouldn't I just switch my registration to Independent?
 
@@ -32,4 +32,4 @@ Absolutely! [Listen to Michigan](https://www.listentomichigan.com) is what inspi
 
 ## How can I get involved?
 
-[Fill out our volunteer form!](https://actionnetwork.org/forms/vote-uncommitted-pa-volunteer-form)
+[Fill out our volunteer form!](https://example.com/fill-in-action-network-form)
