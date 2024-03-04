@@ -22,6 +22,10 @@ Yes, you do in order to vote in the Democratic Presidential Primary Election on 
 
 Being part in this mass action helps your vote apply pressure in an acute, intentional, and measurable way that changing your party registration doesn't.
 
+## If I vote Uncommitted for President will I lose my vote for Senate or Congress?
+No! You can still vote for any candidates you choose for Senate, Congress, and
+local positions that are on your ballot. 
+
 ## Won't this help Trump win?
 
 Biden needs to earn the votes of his constituents, and that means listening to the overwhelming majority who want a ceasefire now. We refuse to believe that we must choose the lesser of two evils, especially without any accountability or pressure to do what is morally right.
