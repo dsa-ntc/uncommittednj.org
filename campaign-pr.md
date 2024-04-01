@@ -1,15 +1,14 @@
 ---
 title: Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now
 permalink: "/campaign-launch-press-release"
-description: Press release for the Uncommitted NJ Campaign, Tuesday March 26th, 2024
+description: Press release for the Uncommitted NJ Campaign, Monday April 1st, 2024
 layout: default
+date: 2024-04-01
 image: /assets/vote-uncommitted-pa.jpg
 ---
 Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now   
 ===
-
-<!--![Red image of the DSA logo: a rose with a black and a white hand shaking
-underneath](assets/dsalogo.png)-->
+Monday, April 1st 2024
 <img src="assets/dsalogo.png" alt="Red image of the DSA logo: a rose with a
 black and a white hand shaking underneath" width="40%" height="auto">
 
