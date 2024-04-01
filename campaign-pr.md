@@ -15,7 +15,7 @@ black and a white hand shaking underneath" width="40%" height="auto">
 
 Contact: Uncommitted NJ Campaign
 
-[press@uncommittednj.org](mailto:press@uncommittednj.org)
+[uncommittednj@gmail.com](mailto:uncommittednj@gmail.com)
 
 [201-844-8633](tel:+12018448633)
  
