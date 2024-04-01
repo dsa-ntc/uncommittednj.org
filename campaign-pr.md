@@ -8,11 +8,15 @@ image: /assets/vote-uncommitted-pa.jpg
 Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now   
 ===
 
-![Red image of the DSA logo: a rose with a black and a white hand shaking
-underneath](assets/dsalogo.png)
+<!--![Red image of the DSA logo: a rose with a black and a white hand shaking
+underneath](assets/dsalogo.png)-->
+<img src="assets/dsalogo.png" alt="Red image of the DSA logo: a rose with a
+black and a white hand shaking underneath" width="40%" height="auto">
 
 Contact: Uncommitted NJ Campaign
+
 [press@uncommittednj.org](mailto:press@uncommittednj.org)
+
 [201-844-8633](tel:+12018448633)
  
 
