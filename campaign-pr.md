@@ -4,7 +4,7 @@ permalink: "/campaign-launch-press-release"
 description: Press release for the Uncommitted NJ Campaign, Monday April 1st, 2024
 layout: default
 date: 2024-04-01
-image: /assets/vote-uncommitted-pa.jpg
+image: /assets/voteuncommittednj.jpg
 ---
 Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now   
 ===
