@@ -9,6 +9,7 @@ image: /assets/vote-uncommitted-pa.jpg
 Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now   
 ===
 Monday, April 1st 2024
+<br>
 <img src="assets/dsalogo.png" alt="Red image of the DSA logo: a rose with a
 black and a white hand shaking underneath" width="40%" height="auto">
 
