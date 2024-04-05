@@ -34,6 +34,13 @@ the overwhelming majority who want a ceasefire now. We refuse to believe that we
 must choose the lesser of two evils, especially without any accountability or
 pressure to do what is morally right.
 
+## Do you think this will make a difference in a deep blue state like N.J.?
+
+Governor Murphy only won his race by about 84,000 votes which is only about 2.5 percent. Which means there are enough registered democrats fed up with the way things are that they will gladly vote for a good cause like ours.  
+
+## What about the marginalized people(muslim, black, hispanic) who will be vulnerable if Trump is office? 
+
+Other marginalized people in this country have been experiencing unimaginable levels of violence and oppression whether there is a democrat or a republican in office. This is our chance to build power together and fight back against oppression no matter who is in the white house. 
 ## Is this like what happened in Michigan?
 
 Absolutely! [Listen to Michigan](https://www.listentomichigan.com) is what
