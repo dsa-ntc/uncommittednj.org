@@ -37,7 +37,7 @@ Now](https://uncommittednj.org/campaign-launch-press-release)
 
 Contact
 ===
-Email: [uncommittednj@gmail.com](mailto:uncommittednj@gmail.com)
+Email: [press@uncommitted.org](mailto:press@uncommitted.org)
 
 Call or Text: [201-844-8633](tel:+12018448633)
 
