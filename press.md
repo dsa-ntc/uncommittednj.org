@@ -13,6 +13,9 @@ Press Coverage
   protest of Gaza
 war](https://www.njspotlightnews.org/video/advocates-push-nj-democrats-to-vote-uncommitted-in-protest-of-gaza-war/)
 (April 9th, 2024)
+
+<iframe width="683" height="384" src="https://www.youtube.com/embed/ccMUo_cKt8w" title="Pushing NJ Dems to vote ‘uncommitted’ in protest of Gaza war" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - New Jersey Monitor:
 ['Uncommitted' movement to press Biden on Gaza lands in New
 Jersey](https://newjerseymonitor.com/2024/04/03/uncommitted-movement-to-press-biden-on-gaza-lands-in-new-jersey/)
