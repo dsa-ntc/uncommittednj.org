@@ -141,14 +141,14 @@ Sincerely,
 Suraj Patel, Isaac Jimenez, Fatima Mughal
 
 *Committee on Vacancies - Uncommitted NJ*
-
-
+<br>
 CC: Governor Murphy
 
 Lt. Gov, Secretary of State, Tahesha Way
 
 Matthew Platkin, Attorney General
-
+<br>
+<br>
 Statutes Cited:
 1. <u>N.J.S.A.</u> 19:23-24. "The position which the candidates and bracketed groups of
 names of candidates for the primary... shall have upon the ballots used for the
