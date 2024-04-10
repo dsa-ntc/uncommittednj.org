@@ -11,7 +11,7 @@ Letter to NJ Division of Elections Director Donna Barber
 Thursday, April 10th 2024
 <br>
 <img src="assets/voteuncommittednj.jpg" alt="Green image of the State of NJ with
-the words "Vote Uncommitted NJ" placed over it" width="40%" height="auto">
+the words 'Vote Uncommitted NJ' placed over it" width="40%" height="auto">
 
 Dear Director Barber,
 
