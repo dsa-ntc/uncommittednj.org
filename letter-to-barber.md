@@ -133,15 +133,19 @@ Here’s where we’ve been omitted from ballot drawings with the two other Choi
 | Warren County || 
 
 Sincerely,
+
 Suraj Patel, Isaac Jimenez, Fatima Mughal
+
 *Committee on Vacancies - Uncommitted NJ*
 
 
 CC: Governor Murphy
+
 Lt. Gov, Secretary of State, Tahesha Way
+
 Matthew Platkin, Attorney General
 
-Statutes Cited
+Statutes Cited:
 1. <u>N.J.S.A.</u> 19:23-24. "The position which the candidates and bracketed groups of
 names of candidates for the primary... shall have upon the ballots used for the
 primary election..., in the case of candidates for nomination for.. choice for
