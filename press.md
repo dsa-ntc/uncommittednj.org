@@ -38,9 +38,10 @@ Press Releases
 ===
 Below is a list of our Press Releases
 
+- [Letter to Director Barber](../letter-to-director-barber) (April 10th, 2024)
 - [Democratic Socialists of America Secure “Uncommitted” Delegates Across New
 Jersey for Justice in Palestine and a Permanent Ceasefire
-Now](https://uncommittednj.org/campaign-launch-press-release)
+Now](https://uncommittednj.org/campaign-launch-press-release) (April 1st, 2024)
 
 Contact
 ===
