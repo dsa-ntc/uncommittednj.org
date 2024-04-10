@@ -139,13 +139,14 @@ Here’s where we’ve been omitted from ballot drawings with the two other Choi
 Sincerely,
 
 Suraj Patel, Isaac Jimenez, Fatima Mughal
-
+<br>
 *Committee on Vacancies - Uncommitted NJ*
 <br>
+<br>
 CC: Governor Murphy
-
+<br>
 Lt. Gov, Secretary of State, Tahesha Way
-
+<br>
 Matthew Platkin, Attorney General
 <br>
 <br>
