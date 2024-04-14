@@ -11,7 +11,7 @@ Press Coverage
 - This is Revolution Podcast: [Solidarity Against the Genocide in Gaza ft. Vote
   Uncommitted NJ](https://www.youtube.com/watch?v=yO-ByrPpWQs) (April 13th 2024)
 
-<iframe width="1306" height="961" src="https://www.youtube.com/embed/yO-ByrPpWQs" title="Solidarity Against the Genocide in Gaza ft. Vote Uncommitted NJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="683" height="384" src="https://www.youtube.com/embed/yO-ByrPpWQs" title="Solidarity Against the Genocide in Gaza ft. Vote Uncommitted NJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - NJ Spotlight News: [Advocates push NJ Democrats to vote ‘uncommitted’ in
   protest of Gaza
