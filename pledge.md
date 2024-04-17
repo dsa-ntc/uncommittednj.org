@@ -1,6 +1,6 @@
 ---
 title: Uncommitted Pledge
-permalink: "/pledge"
+permalink: "/pledge/"
 description: Take the pledge to vote uncommitted in the NJ primary on June 4th 2024.
 layout: default
 image: /assets/vote-uncommitted-pa.jpg
