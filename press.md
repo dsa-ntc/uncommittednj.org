@@ -8,6 +8,13 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- NorthJersey.com: [In NJ, a push to vote ‘uncommitted’ to protest Biden support
+  for war in
+Gaza](https://www.northjersey.com/story/news/politics/elections/2024/04/17/what-is-uncommitted-vote-nj-protest-biden-gaza-primary/73295585007/)
+(April 17th, 2024)
+
+<iframe title="NORTHJERSEY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.northjersey.com/embed/video/73346481007?placement=snow-embed"></iframe>
+
 - This is Revolution Podcast: [Solidarity Against the Genocide in Gaza ft. Vote
   Uncommitted NJ](https://www.youtube.com/watch?v=yO-ByrPpWQs) (April 13th 2024)
 
