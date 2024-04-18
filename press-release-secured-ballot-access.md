@@ -41,7 +41,8 @@ citizens to join us for the virtual launch rally of Vote Uncommitted New
 Jersey.” 
 
 The virtual rally will take place on April 21st at 5:00PM. To register, visit
-https://dsausa.zoom.us/webinar/register/WN_LXDdLWj5RzSU9UJ1x9po8g
+<a
+href="https://dsausa.zoom.us/webinar/register/WN_LXDdLWj5RzSU9UJ1x9po8g">https://dsausa.zoom.us/webinar/register/WN_LXDdLWj5RzSU9UJ1x9po8g</a>
 
 ### 
 
@@ -52,5 +53,5 @@ complicity in it.
 
 
 **For more information about Uncommitted NJ, please visit:
-https://uncommittednj.org/**
+<a href="https://uncommittednj.org/">uncommittednj.org</a>**
 
