@@ -49,6 +49,8 @@ Press Releases
 ===
 Below is a list of our Press Releases
 
+- [Vote Uncommitted NJ Defies Anti-Democratic Practices, Securing Ballot Access
+  Statewide](../secured-ballot-access-press-release) (April 17th, 2024)
 - [Letter to Director Barber](../letter-to-director-barber) (April 10th, 2024)
 - [Democratic Socialists of America Secure “Uncommitted” Delegates Across New
 Jersey for Justice in Palestine and a Permanent Ceasefire
