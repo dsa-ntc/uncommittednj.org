@@ -8,6 +8,12 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- Left Reckoning [Vote No On Joe
+  Biden?](https://www.youtube.com/watch?v=AAY0eeVScg8&t=1550s) (April 23rd,
+2024)
+
+<iframe width="683" height="384" src="https://www.youtube.com/embed/AAY0eeVScg8" title="LR 166 - Vote No On Joe Biden?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - NorthJersey.com: [In NJ, a push to vote ‘uncommitted’ to protest Biden support
   for war in
 Gaza](https://www.northjersey.com/story/news/politics/elections/2024/04/17/what-is-uncommitted-vote-nj-protest-biden-gaza-primary/73295585007/)
