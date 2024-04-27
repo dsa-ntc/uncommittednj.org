@@ -24,7 +24,7 @@ Society and targeting their university endowments, which impact public and
 private universities alike. They will no longer allow the ruling class to profit
 from their universities’ dealings with the apartheid state of Israel, which
 includes Israeli firms and U.S. weapons contractors who are capitalizing on
-Israeli’s  genocide of Palestinians in Gaza and the West Bank. New Jersey led
+Israel’s genocide of Palestinians in Gaza and the West Bank. New Jersey led
 the way as the first state in the U.S. to divest from Apartheid South Africa.
 Now, students at Princeton University and across the country are leading the
 charge to divest on their campuses.
@@ -53,7 +53,7 @@ evicted students be dropped…WE WILL NOT STOP, WE WILL NOT REST, DISCLOSE,
 DIVEST!” 
 
 Our focus must remain on stopping the genocide by any means possible. We ask
-everyone to join the movement of conscience bycasting a vote for Uncommitted in
+everyone to join the movement of conscience by casting a vote for Uncommitted in
 the NJ Democratic Primary on June 4th.
 
 ###
