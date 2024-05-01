@@ -60,4 +60,4 @@ following Michigan's lead.
 ## How can I get involved?
 
 [Fill out our volunteer
-form!](https://docs.google.com/forms/d/1qWLpLznOpCIjrGYLu2J3QdG0InF_i_nT28AqKZqjvmo/edit?usp=drivesdk)
+form!](https://volunteeruncommittednj.carrd.co)
