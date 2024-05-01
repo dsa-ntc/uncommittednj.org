@@ -491,3 +491,8 @@ figcaption {
 .dropdown:hover .dropdown-content {
  display: block;
 }
+
+.dropdown:hover .dropdown-content a {
+  display: block;
+  text-decoration: none;
+ }
