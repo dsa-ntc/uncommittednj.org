@@ -60,6 +60,9 @@ Press Releases
 ===
 Below is a list of our Press Releases
 
+- [Vote Uncommitted NJ Voices Support for Rutgers Endowment Justice Collective
+  Organizers and the Gaza Solidarity Encampment at Rutgers
+University](../rutgers-university-press-release) (May 2nd, 2024)
 - [Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other
 University Protests](https://uncommittednj.org/protest-repression-press-release) (April 27th, 2024)
 - [Vote Uncommitted NJ Defies Anti-Democratic Practices, Securing Ballot Access
