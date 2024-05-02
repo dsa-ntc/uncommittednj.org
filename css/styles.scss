@@ -331,7 +331,7 @@ iframe {
 
 .nav {
   align-items: center;
-  align-self: flex-end;
+  align-self: center;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -349,6 +349,7 @@ iframe {
   display: inline-block;
   font-size: 16px;
   margin: 0 $spacing-unit / 3;
+  padding-bottom: 0;
 
   @media (max-width: $breakpoint-sm) {
     margin: 0 $spacing-unit / 4;
