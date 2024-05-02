@@ -8,7 +8,12 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
-- Left Reckoning [Vote No On Joe
+- Democratic Left: [Putting Palestine on the Ballot: An Interview with
+  Uncommitted New Jersey
+Organizers](https://www.dsausa.org/democratic-left/putting-palestine-on-the-ballot-an-interview-with-uncommitted-new-jersey-organizers/)
+(May 2nd, 2024)
+
+- Left Reckoning: [Vote No On Joe
   Biden?](https://www.youtube.com/watch?v=AAY0eeVScg8&t=1550s) (April 23rd,
 2024)
 
