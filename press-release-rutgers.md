@@ -52,7 +52,7 @@ complicity in it.
 
 Below are the official demands as of the Rutgers Endowment Justice Collective: 
 
-*1. Divest from any firm or Corporation materially participating in, benefitting from, or
+1. Divest from any firm or Corporation materially participating in, benefitting from, or
 otherwise supporting the state of Israel's settler colonialism, apartheid, and genocide of
 Palestine and the Palestinian people, in accordance with the principles for divestment
 listed in University policy 40.2.14.
@@ -77,7 +77,7 @@ and Kashmiris - In all areas displaying international flags across the Rutgers c
 10. Provide full amnesty for all students, student groups, faculty, and staff penalized for
 exercising their first amendment right to protest Rutgers University's support for Israeli
 human rights violations. and voice support for faculty and staff who have been publicly
-targeted for exercising their academic freedom.*
+targeted for exercising their academic freedom.
 
 ### 
 
