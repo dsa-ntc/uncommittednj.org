@@ -8,6 +8,11 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- CounterPunch: [The Uncommitted Campaign in New Jersey: The Fight To End
+  Genocide
+Continues](https://www.counterpunch.org/2024/05/03/the-uncommitted-campaign-in-new-jersey-the-fight-to-end-genocide-continues/)
+(May 3rd, 2024)
+
 - Sublation Media: [Is this How We Can STOP Genocide
   Joe?](https://www.youtube.com/watch?v=opwJsQTK7I8) (May 2nd, 2024)
 
