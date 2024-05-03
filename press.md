@@ -8,6 +8,11 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- Sublation Media: [Is this How We Can STOP Genocide
+  Joe?](https://www.youtube.com/watch?v=opwJsQTK7I8) (May 2nd, 2024)
+
+<iframe width="683" height="384" src="https://www.youtube.com/embed/opwJsQTK7I8" title="Is this How We Can STOP Genocide Joe?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Democratic Left: [Putting Palestine on the Ballot: An Interview with
   Uncommitted New Jersey
 Organizers](https://www.dsausa.org/democratic-left/putting-palestine-on-the-ballot-an-interview-with-uncommitted-new-jersey-organizers/)
