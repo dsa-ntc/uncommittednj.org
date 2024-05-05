@@ -6,7 +6,7 @@ layout: default
 date: 2024-05-02
 image: /assets/uncommitted-square.jpg
 ---
-Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other University Protests
+Vote Uncommitted NJ Voices Support for Rutgers Endowment Justice Collective Organizers and the Gaza Solidarity Encampment at Rutgers University
 ===
 Thursday, May 2nd, 2024
 <br>
