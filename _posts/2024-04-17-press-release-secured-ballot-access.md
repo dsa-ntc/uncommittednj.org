@@ -2,15 +2,12 @@
 title: Vote Uncommitted NJ Defies Anti-Democratic Practices, Securing Ballot Access Statewide  
 permalink: "/secured-ballot-access-press-release"
 description: All counties may now vote Uncommitted in the June 4th Democratic Primary
-layout: default
-date: 2024-04-17
-image: /assets/voteuncommittednj.jpg
+layout: post
+image: /assets/uncommitted.png
+author: Vote Uncommitted NJ
+email: press@uncommitted.org
+phone: (201) 844-8633
 ---
-# Vote Uncommitted NJ Defies Anti-Democratic Practices, Securing Ballot Access Statewide  
-Tuesday, April 17st 2024
-<br>
-<img src="assets/uncommitted.png" alt="Uncommitted New Jersey logo" width="40%" height="auto">
-
 
 **Trenton, NJ**  — Despite the refusal of certain counties to include
 “Uncommitted” in their ballot draws, the Vote Uncommitted NJ campaign proudly

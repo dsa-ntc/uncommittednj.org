@@ -2,17 +2,9 @@
 title: Letter to NJ Division of Elections Director Donna Barber
 permalink: "/letter-to-director-barber"
 description: Our response to Director Barber regarding Uncommitted ballot placement 
-layout: default
-date: 2024-04-10
+layout: post
 image: /assets/voteuncommittednj.jpg
 ---
-Letter to NJ Division of Elections Director Donna Barber
-===
-Thursday, April 10th 2024
-<br>
-<img src="assets/voteuncommittednj.jpg" alt="Green image of the State of NJ with
-the words 'Vote Uncommitted NJ' placed over it" width="40%" height="auto">
-
 Dear Director Barber,
 
 Thank you for your response to our email and letter dated April 6th, on a

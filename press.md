@@ -68,19 +68,15 @@ ballot](https://www.politico.com/newsletters/new-jersey-playbook/2024/03/27/gaza
 
 Press Releases
 ===
-Below is a list of our Press Releases
+Below is a list of our press releases:
 
-- [Vote Uncommitted NJ Voices Support for Rutgers Endowment Justice Collective
-  Organizers and the Gaza Solidarity Encampment at Rutgers
-University](../rutgers-university-press-release) (May 2nd, 2024)
-- [Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other
-University Protests](https://uncommittednj.org/protest-repression-press-release) (April 27th, 2024)
-- [Vote Uncommitted NJ Defies Anti-Democratic Practices, Securing Ballot Access
-  Statewide](../secured-ballot-access-press-release) (April 17th, 2024)
-- [Letter to Director Barber](../letter-to-director-barber) (April 10th, 2024)
-- [Democratic Socialists of America Secure “Uncommitted” Delegates Across New
-Jersey for Justice in Palestine and a Permanent Ceasefire
-Now](https://uncommittednj.org/campaign-launch-press-release) (April 1st, 2024)
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string: "ordinal", "US"}})
+        </li>
+    {% endfor %}
+</ul>
 
 Contact
 ===

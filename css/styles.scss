@@ -424,6 +424,19 @@ iframe {
   }
 }
 
+.post-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.post-image {
+  display: block;
+  width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .content-nav {
   margin-top: $spacing-unit;
   text-align: center;
@@ -434,6 +447,12 @@ iframe {
     text-align: center;
     width: 100%;
   }
+}
+
+time {
+  display: block;
+  text-align: center;
+  margin: 16px;
 }
 
 #disqus_thread {
