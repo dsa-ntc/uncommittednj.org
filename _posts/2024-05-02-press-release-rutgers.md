@@ -4,7 +4,7 @@ permalink: "/rutgers-university-press-release"
 description: Press release for the Uncommitted NJ Campaign, Thursday May 2nd, 2024
 layout: post
 image: /assets/uncommitted-square.jpg
-author: Vote Uncommitted New Jersey
+author: Uncommitted NJ
 email: press@uncommitted.org
 phone: (201) 844-8633
 ---
@@ -70,8 +70,12 @@ exercising their first amendment right to protest Rutgers University's support f
 human rights violations. and voice support for faculty and staff who have been publicly
 targeted for exercising their academic freedom.
 
-### 
+---
 
-For more information about Uncommitted NJ, please visit:
-[uncommittednj.org/](https://uncommittednj.org)
+The Vote Uncommitted New Jersey campaign is a grassroots movement bringing
+together thousands of New Jerseyans from all backgrounds across the state to
+demand an end to the genocide of the Palestinian people and the United States’
+complicity in it. 
 
+**For more information about Uncommitted NJ, please visit:**
+[uncommittednj.org](https://uncommittednj.org)

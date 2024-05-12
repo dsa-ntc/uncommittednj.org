@@ -12,7 +12,7 @@ phone: (201) 844-8633
 **Trenton, NJ** — Amidst mounting global concern over the harrowing atrocities
 committed against the Palestinian people, in a bold and resolute move, the
 Democratic Socialists of America (DSA) submitted today 48 delegates from across
-the state running"Uncommitted" on the ballot in New Jersey for the upcoming
+the state running "Uncommitted" on the ballot in New Jersey for the upcoming
 primary election on June 4th.
 
 The Biden administration's unwavering complicity in Israel’s bombardment of Gaza
@@ -35,11 +35,11 @@ allies, DSA affirms their commitment to fighting for a permanent ceasefire, an
 end to U.S. funding of Israel’s war machine, and toward the liberation of
 Palestine. 
 
-###
+---
 
 Democratic Socialists of America (DSA) is the largest socialist organization in
 the United States. DSA is building a working class movement from the bottom-up,
 establishing a democratic socialist presence from the workplace to our
 neighborhoods and broader society.
 
-**For more information about NJDSA, please visit: [dsanj.org](https://dsanj.org)**
+**For more information about NJDSA, please visit:** [dsanj.org](https://dsanj.org)

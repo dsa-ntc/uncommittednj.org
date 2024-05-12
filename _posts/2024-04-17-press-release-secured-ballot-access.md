@@ -4,7 +4,7 @@ permalink: "/secured-ballot-access-press-release"
 description: All counties may now vote Uncommitted in the June 4th Democratic Primary
 layout: post
 image: /assets/uncommitted.png
-author: Vote Uncommitted NJ
+author: Uncommitted NJ
 email: press@uncommitted.org
 phone: (201) 844-8633
 ---
@@ -41,14 +41,12 @@ The virtual rally will take place on April 21st at 5:00PM. To register, visit
 <a
 href="https://dsausa.zoom.us/webinar/register/WN_LXDdLWj5RzSU9UJ1x9po8g">https://dsausa.zoom.us/webinar/register/WN_LXDdLWj5RzSU9UJ1x9po8g</a>
 
-### 
+--- 
 
 The Vote Uncommitted New Jersey campaign is a grassroots movement bringing
 together thousands of New Jerseyans from all backgrounds across the state to
 demand an end to the genocide of the Palestinian people and the United States’
 complicity in it.
 
-
-**For more information about Uncommitted NJ, please visit:
-<a href="https://uncommittednj.org/">uncommittednj.org</a>**
-
+**For more information about Uncommitted NJ, please visit:**
+[uncommittednj.org](https://uncommittednj.org)

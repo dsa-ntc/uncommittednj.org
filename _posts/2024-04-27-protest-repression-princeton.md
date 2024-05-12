@@ -4,7 +4,7 @@ permalink: "/protest-repression-press-release"
 description: Press release for the Uncommitted NJ Campaign, Saturday April 27th, 2024
 layout: post
 image: /assets/uncommitted-square.jpg
-author: Vote Uncommitted New Jersey
+author: Uncommitted NJ
 email: press@uncommitted.org
 phone: (201) 844-8633
 ---
@@ -45,12 +45,12 @@ Our focus must remain on stopping the genocide by any means possible. We ask
 everyone to join the movement of conscience by casting a vote for Uncommitted in
 the NJ Democratic Primary on June 4th.
 
-###
+---
 
 The Vote Uncommitted New Jersey campaign is a grassroots movement bringing
 together thousands of New Jerseyans from all backgrounds across the state to
 demand an end to the genocide of the Palestinian people and the United States’
 complicity in it. 
 
-**For more information about Uncommitted NJ, please visit:
-[uncommittednj.org](https://uncommittednj.org)**
+**For more information about Uncommitted NJ, please visit:**
+[uncommittednj.org](https://uncommittednj.org)
