@@ -525,19 +525,15 @@ figcaption {
 }
 
 .image-gallery {
-  width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  justify-content: center;
-  padding: 4px;
-  grid-gap: 20px;
+  padding: 10px;
+  grid-gap: 30px;
 }
 
 .box {
-  flex-basis: 25%;
+  display: flex;
   width: 100%;
-  padding: 10px;
-  margin: 2px;
 }
 
 .img-gallery {
