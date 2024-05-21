@@ -517,3 +517,42 @@ figcaption {
   text-decoration: none;
   min-width: 160px;
  }
+
+.ballot-county-name {
+  font-weight: bold;
+  font-size: 16pt;
+  text-align: center;
+}
+
+.image-gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  justify-content: center;
+  padding: 4px;
+  grid-gap: 20px;
+}
+
+.box {
+  flex-basis: 25%;
+  width: 100%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.img-gallery {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+}
+
+#wheres-uncommitted {
+  text-align: center;
+}
