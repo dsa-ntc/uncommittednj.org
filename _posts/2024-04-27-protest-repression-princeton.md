@@ -2,23 +2,12 @@
 title: Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other University Protests
 permalink: "/protest-repression-press-release"
 description: Press release for the Uncommitted NJ Campaign, Saturday April 27th, 2024
-layout: default
-date: 2024-04-27
+layout: post
 image: /assets/uncommitted-square.jpg
+author: Uncommitted NJ
+email: press@uncommitted.org
+phone: (201) 844-8633
 ---
-Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other University Protests
-===
-Saturday, April 27 2024
-<br>
-<img src="assets/uncommitted-square.jpg" alt="Uncommitted New Jersey logo" width="40%" height=auto>
- 
-Contact: Vote Uncommitted New Jersey
-
-[press@uncommitted.org](mailto:press@uncommitted.org)
-
-[201-844-8633](tel:+12018448633)
-
-
 **Trenton, NJ** — Students are responding to the calls from Palestinian Civil
 Society and targeting their university endowments, which impact public and
 private universities alike. They will no longer allow the ruling class to profit
@@ -56,12 +45,12 @@ Our focus must remain on stopping the genocide by any means possible. We ask
 everyone to join the movement of conscience by casting a vote for Uncommitted in
 the NJ Democratic Primary on June 4th.
 
-###
+---
 
 The Vote Uncommitted New Jersey campaign is a grassroots movement bringing
 together thousands of New Jerseyans from all backgrounds across the state to
 demand an end to the genocide of the Palestinian people and the United States’
 complicity in it. 
 
-**For more information about Uncommitted NJ, please visit:
-[uncommittednj.org](https://uncommittednj.org)**
+**For more information about Uncommitted NJ, please visit:**
+[uncommittednj.org](https://uncommittednj.org)

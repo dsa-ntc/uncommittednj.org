@@ -2,28 +2,17 @@
 title: Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now
 permalink: "/campaign-launch-press-release"
 description: Press release for the Uncommitted NJ Campaign, Monday April 1st, 2024
-layout: default
-date: 2024-04-01
-image: /assets/voteuncommittednj.jpg
+layout: post
+image: /assets/dsalogo.png
+author: Uncommitted NJ
+email: uncommittednj@gmail.com
+phone: (201) 844-8633
 ---
-Democratic Socialists of America Secure "Uncommitted" Delegates Across New Jersey for Justice in Palestine and a Permanent Ceasefire Now   
-===
-Monday, April 1st 2024
-<br>
-<img src="assets/dsalogo.png" alt="Red image of the DSA logo: a rose with a
-black and a white hand shaking underneath" width="40%" height="auto">
-
-Contact: Uncommitted NJ Campaign
-
-[uncommittednj@gmail.com](mailto:uncommittednj@gmail.com)
-
-[201-844-8633](tel:+12018448633)
- 
 
 **Trenton, NJ** — Amidst mounting global concern over the harrowing atrocities
 committed against the Palestinian people, in a bold and resolute move, the
 Democratic Socialists of America (DSA) submitted today 48 delegates from across
-the state running"Uncommitted" on the ballot in New Jersey for the upcoming
+the state running "Uncommitted" on the ballot in New Jersey for the upcoming
 primary election on June 4th.
 
 The Biden administration's unwavering complicity in Israel’s bombardment of Gaza
@@ -46,11 +35,11 @@ allies, DSA affirms their commitment to fighting for a permanent ceasefire, an
 end to U.S. funding of Israel’s war machine, and toward the liberation of
 Palestine. 
 
-###
+---
 
 Democratic Socialists of America (DSA) is the largest socialist organization in
 the United States. DSA is building a working class movement from the bottom-up,
 establishing a democratic socialist presence from the workplace to our
 neighborhoods and broader society.
 
-**For more information about NJDSA, please visit: [dsanj.org](https://dsanj.org)**
+**For more information about NJDSA, please visit:** [dsanj.org](https://dsanj.org)

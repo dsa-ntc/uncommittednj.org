@@ -21,3 +21,5 @@ sass:
 exclude:
 - README.md
 - Gemfile*
+imagesurl: "/assets/sample-ballots/"
+thumbsurl: "/assets/sample-ballot-thumbs/"

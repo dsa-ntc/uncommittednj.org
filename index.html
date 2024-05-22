@@ -1,20 +1,16 @@
 ---
 layout: default
-image: /assets/vote-uncommitted.jpg
+carousels:
+  - images:
+    - image: /assets/carousel-unc1.png
+    - image: /assets/carousel-unc2.png
 ---
 <div id="home">
   <div class="prelude">
     <p><em>Say <strong>NO</strong> to Genocide Joe.</em></p>
 
     <figure>
-      <img style="width: 640px;" src="assets/uncommitted-ballot-graphic.png" alt="Sample
-ballot that is titled 'New Jersey says NO to Genocide Joe!'. Below the title it
-says 'Pledge to vote at uncommittednj.org' and 'Vote Uncommitted in NJ by June
-4th' in English, Spanish, and Arabic. There is a graphic display of the ballot
-that says 'For President of the United States' with Joseph R. Biden Jr with the
-slogan 'Biden for President' and Uncommitted with the slogan 'Justice for
-Palestine, Permanent Ceasefire Now'. The Uncommitted choice has a green check
-next to it">
+      {% include carousel.html height="50" unit="%" duration="7" number="1" %}
       <figcaption><em><a
 href=/pledge/>Take our Pledge</a></em></figcaption>
     </figure>
@@ -44,6 +40,9 @@ Primary Election.</p>
 You can <a href="https://voter.svrs.nj.gov/register">register online</a> to
 change your party affiliation before the election! If you're already registered
 as Unaffiliated, you can request a Democratic primary ballot from a poll worker!
+  <p><strong>Looking for Uncommitted on your ballot?</strong>
+  <a href="/ballots">Take a look</a> at our sample ballot images to find Uncommitted
+      on your mail-in ballot, or to prepare to vote in person on June 4th.</p>
   </div>
 
   <div class='section'>

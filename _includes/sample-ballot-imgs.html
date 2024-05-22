@@ -1,0 +1,13 @@
+<div class="image-gallery">
+  {% assign image_files = site.static_files | sort: 'date' %}
+  {% for file in image_files %}
+    {% if file.path contains include.folder %}
+      {% assign spliturl = file.path | split: '/' %}
+      {% assign filename = spliturl | last | replace: file.extname, '' %}
+      <div class="box"><a href="{{ file.path | relative_url }}" title="{{ filename }}">
+          <img class="img-gallery" src="{{ site.thumbsurl }}{{ file.name }}" alt="{{ filename }}"/>
+          <span class="ballot-county-name">{{ filename }}</span>
+      </a></div>
+    {% endif %}
+  {% endfor %}
+</div>

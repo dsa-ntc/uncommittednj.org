@@ -2,21 +2,12 @@
 title: Vote Uncommitted NJ Voices Support for Rutgers Endowment Justice Collective Organizers and the Gaza Solidarity Encampment at Rutgers University
 permalink: "/rutgers-university-press-release"
 description: Press release for the Uncommitted NJ Campaign, Thursday May 2nd, 2024
-layout: default
-date: 2024-05-02
+layout: post
 image: /assets/uncommitted-square.jpg
+author: Uncommitted NJ
+email: press@uncommitted.org
+phone: (201) 844-8633
 ---
-Vote Uncommitted NJ Condemns the Violent Policing of Princeton and other University Protests
-===
-Thursday, May 2nd, 2024
-<br>
-<img src="assets/uncommitted-square.jpg" alt="Uncommitted New Jersey logo" width="40%" height=auto>
- 
-Contact: Vote Uncommitted New Jersey
-
-[press@uncommitted.org](mailto:press@uncommitted.org)
-
-[201-844-8633](tel:+12018448633) 
 
 **New Brunswick, NJ** — Over the past few days, students at both the New Brunswick
 and Newark campuses of Rutgers University have set up Gaza solidarity
@@ -79,8 +70,12 @@ exercising their first amendment right to protest Rutgers University's support f
 human rights violations. and voice support for faculty and staff who have been publicly
 targeted for exercising their academic freedom.
 
-### 
+---
 
-For more information about Uncommitted NJ, please visit:
-[uncommittednj.org/](https://uncommittednj.org)
+The Vote Uncommitted New Jersey campaign is a grassroots movement bringing
+together thousands of New Jerseyans from all backgrounds across the state to
+demand an end to the genocide of the Palestinian people and the United States’
+complicity in it. 
 
+**For more information about Uncommitted NJ, please visit:**
+[uncommittednj.org](https://uncommittednj.org)
