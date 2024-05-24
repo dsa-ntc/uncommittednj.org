@@ -9,9 +9,15 @@ image: /assets/voteuncommittednj.jpg
 Press Coverage
 ===
 
-- Pod Damn America [You Get a
-  Tank](https://soundcloud.com/poddamnamerica/you-get-a-tank-wuncommitted-nj)
+- The Philadelphia Inquirer:
+  [New Jersey’s ‘uncommitted’ campaign will look different from Pennsylvania’s.
+Here’s
+how.](https://www.inquirer.com/politics/election/nj-uncomitted-campaign-democrats-2024-primary-election-20240520.html)
 (May 20th, 2024)
+
+- Pod Damn America: [You Get a
+  Tank](https://soundcloud.com/poddamnamerica/you-get-a-tank-wuncommitted-nj)
+(May 19th, 2024)
 
 - Give Them An Argument: [Nationalism is the Core of
   Genocide](https://youtu.be/Sg1_-WOzPsw) (May 8th, 2024)
