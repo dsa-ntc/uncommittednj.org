@@ -2,19 +2,13 @@
   {% assign image_files = site.static_files | sort: 'date' %}
   {% for file in image_files %}
     {% if file.path contains include.folder-square %}
-      {% assign spliturl = file.path | split: '/' %}
-      {% assign filename = spliturl | last | replace: file.extname, '' %}
-        <!--<a href="{{ file.path | relative_url }}" title="{{ filename }}">-->
-        <img class="img-end-gallery" src="{{ file.path }}" alt="{{ filename }}"/>
-        <!--</a>-->
+      <img class="img-end-gallery" src="{{ file.path }}"/>
     {% endif %}
   {% endfor %}
   <div class="break"></div>
   {% for file in image_files %}
     {% if file.path contains include.folder-rect %}
-      {% assign spliturl = file.path | split: '/' %}
-      {% assign filename = spliturl | last | replace: file.extname, '' %}
-        <img class="img-end-gallery" src="{{ file.path }}" alt="{{ filename }}"/>
+      <img class="img-end-gallery" src="{{ file.path }}"/>
     {% endif %}
   {% endfor %}
 </div>
