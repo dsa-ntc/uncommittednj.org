@@ -551,7 +551,7 @@ figcaption {
 
 .endorsements-gallery {
   display: flex;
-  gap: 50px 25px;
+  gap: 30px 25px;
   flex-flow: row wrap;
   justify-content: space-evenly;
 }
@@ -569,14 +569,18 @@ figcaption {
 
 .img-end {
   text-align: center;
+  align-items: center;
 }
 
 .img-end-text {
   font-weight: bold;
-  font-size: 10pt;
+  font-size: 12pt;
   font-style: oblique;
-  max-width: 120px;
   line-height: normal;
+}
+
+.img-end-text-square {
+  max-width: 120px;
 }
 
 #wheres-uncommitted, #endorsements {

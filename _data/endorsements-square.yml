@@ -1,3 +1,21 @@
+- name: Democratic Socialists of America
+  path: dsalogo.png
+
+- name: North NJ DSA
+  path: northnjdsa.jpg
+
+- name: Central NJ DSA
+  path: centralnjdsa.jpg
+
+- name: South NJ DSA
+  path: southnjdsa.jpg
+
+- name: Hudson County DSA
+  path: hudcodsa.png
+
+- name: Princeton YDSA
+  path: princetonydsa.jpg
+
 - name: AP Action For Peace In Palestine
   path: action4peaceinpalestine.png
 
@@ -10,7 +28,7 @@
 - name: IfNotNow New Jersey
   path: innnj.png
 
-- name: JVP Action Northern NJ
+- name: JVP Action
   path: jvpnj.png
 
 - name: Monmouth County NJ for Palestine

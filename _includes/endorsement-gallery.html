@@ -2,16 +2,18 @@
   {% assign images_sqr = site.data.endorsements-square %}
   {% for file in images_sqr %}
     <div class="img-end">
-      <img class="img-end-gallery" src="/assets/endorsements-square/{{ file.path }}"/>
-      <p class="img-end-text">{{ file.name }}</p>
+        <img class="img-end-gallery" src="/assets/endorsements-square/{{ file.path }}"/>
+        <figcaption class="img-end-text img-end-text-square">{{ file.name }}</figcaption>
     </div>
   {% endfor %}
   <div class="break"></div>
   {% assign images_rect = site.data.endorsements-rect %}
   {% for file in images_rect %}
     <div class="img-end">
-      <img class="img-end-gallery" src="/assets/endorsements-rect/{{ file.path }}"/>
-      <p class="img-end-text">{{ file.name }}</p>
+      <figure>
+        <img class="img-end-gallery" src="/assets/endorsements-rect/{{ file.path }}"/>
+        <figcaption class="img-end-text">{{ file.name }}</figcaption>
+      </figure>
     </div>
   {% endfor %}
 </div>
