@@ -569,7 +569,6 @@ figcaption {
 
 .img-end {
   text-align: center;
-  align-items: center;
 }
 
 .img-end-text {
@@ -579,8 +578,15 @@ figcaption {
   line-height: normal;
 }
 
+.img-end figure {
+  display: inline-grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto;
+}
+
 .img-end-text-square {
-  max-width: 120px;
+  width: 0;
+  min-width: 100%;
 }
 
 #wheres-uncommitted, #endorsements {

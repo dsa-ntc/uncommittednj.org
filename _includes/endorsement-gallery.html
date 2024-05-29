@@ -2,8 +2,10 @@
   {% assign images_sqr = site.data.endorsements-square %}
   {% for file in images_sqr %}
     <div class="img-end">
+      <figure>
         <img class="img-end-gallery" src="/assets/endorsements-square/{{ file.path }}"/>
         <figcaption class="img-end-text img-end-text-square">{{ file.name }}</figcaption>
+      </figure>
     </div>
   {% endfor %}
   <div class="break"></div>
