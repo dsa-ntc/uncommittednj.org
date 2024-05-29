@@ -567,6 +567,18 @@ figcaption {
   height: 0;
 }
 
+.img-end {
+  text-align: center;
+}
+
+.img-end-text {
+  font-weight: bold;
+  font-size: 10pt;
+  font-style: oblique;
+  max-width: 120px;
+  line-height: normal;
+}
+
 #wheres-uncommitted, #endorsements {
   text-align: center;
 }

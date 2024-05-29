@@ -1,14 +1,17 @@
 <div class="endorsements-gallery">
-  {% assign image_files = site.static_files | sort: 'date' %}
-  {% for file in image_files %}
-    {% if file.path contains include.folder-square %}
-      <img class="img-end-gallery" src="{{ file.path }}"/>
-    {% endif %}
+  {% assign images_sqr = site.data.endorsements-square %}
+  {% for file in images_sqr %}
+    <div class="img-end">
+      <img class="img-end-gallery" src="/assets/endorsements-square/{{ file.path }}"/>
+      <p class="img-end-text">{{ file.name }}</p>
+    </div>
   {% endfor %}
   <div class="break"></div>
-  {% for file in image_files %}
-    {% if file.path contains include.folder-rect %}
-      <img class="img-end-gallery" src="{{ file.path }}"/>
-    {% endif %}
+  {% assign images_rect = site.data.endorsements-rect %}
+  {% for file in images_rect %}
+    <div class="img-end">
+      <img class="img-end-gallery" src="/assets/endorsements-rect/{{ file.path }}"/>
+      <p class="img-end-text">{{ file.name }}</p>
+    </div>
   {% endfor %}
 </div>
