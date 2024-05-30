@@ -1,6 +1,6 @@
 ---
 title: Early Voting Locations
-permalink: "/early-voting"
+permalink: "/early-voting/"
 description: Find out where to vote early for Uncommitted!
 layout: default
 date: 2024-05-29
