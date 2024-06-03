@@ -19,8 +19,14 @@
 - name: AP Action For Peace In Palestine
   path: action4peaceinpalestine.png
 
+- name: Beyond the Ballot
+  path: beyondtheballot.png
+
 - name: Ceasefire Now NJ
   path: ceasefirenownj.png
+
+- name: Doctors Against Genocide
+  path: doctorsagainstgenocide.jpeg
 
 - name: Dover 4 Palestine
   path: d4p.jpg
@@ -34,8 +40,26 @@
 - name: Monmouth County NJ for Palestine
   path: mcnj.jpg
 
+- name: New Jersey Healthcare Workers for Palestine
+  path: njhealthcareworkers.png
+
 - name: New Jersey Peace Action
   path: njpeaceaction.png
+
+- name: NJ 6 for Palestine
+  path: nj6forpalestine.png
+
+- name: NJ 11th District for Palestine
+  path: nj114p.jpg
+
+- name: Path to Victory
+  path: pathtovictory.png
+
+- name: People's Organization for Progress
+  path: pop.jpeg
+
+- name: Perth Amboy for Palestine
+  path: perthamboyforpalestine.jpeg
 
 - name: RU4Palestine
   path: ru4palestine.png
@@ -63,6 +87,3 @@
 
 - name: West Orange for Humanity
   path: westorange4humanity.png
-
-- name: NJ 11th District for Palestine
-  path: nj114p.jpg
