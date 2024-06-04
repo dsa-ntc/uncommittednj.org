@@ -16,8 +16,14 @@
 - name: Princeton YDSA
   path: princetonydsa.jpg
 
+- name: AJP Action
+  path: ajpaction.jpeg
+
 - name: AP Action For Peace In Palestine
   path: action4peaceinpalestine.png
+
+- name: Black is Back
+  path: blackisback.jpeg
 
 - name: Beyond the Ballot
   path: beyondtheballot.png
@@ -31,11 +37,17 @@
 - name: Dover 4 Palestine
   path: d4p.jpg
 
+- name: Equality, Rights & Justice
+  path: erjc.jpeg
+
 - name: IfNotNow New Jersey
   path: innnj.png
 
 - name: JVP Action
   path: jvpnj.png
+
+- name: MaskblocJC
+  path: maskbloc.jpeg
 
 - name: Monmouth County NJ for Palestine
   path: mcnj.jpg
