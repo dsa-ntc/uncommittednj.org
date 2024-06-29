@@ -3,7 +3,7 @@ title: Vote Uncommitted NJ Demands Biden to Step Aside Amidst Continued Genocide
 permalink: "/biden-step-aside-press-release"
 description: Press release following the 1st Presidential Debate of the 2024 election, Saturday June 29, 2024
 layout: post
-image: /assets/uncommitted.png
+image: /assets/biden-step-aside.jpg
 author: Uncommitted NJ
 email: press@uncommitted.org
 phone: (201) 844-8633
