@@ -112,7 +112,7 @@ Below is a list of our press releases:
 
 Contact
 ===
-Email: [press@uncommitted.org](mailto:press@uncommitted.org)
+Email: [press@uncommittednj.org](mailto:press@uncommittednj.org)
 
 Call or Text: [201-844-8633](tel:+12018448633)
 
