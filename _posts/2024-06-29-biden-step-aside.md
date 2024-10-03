@@ -5,7 +5,7 @@ description: Press release following the 1st Presidential Debate of the 2024 ele
 layout: post
 image: /assets/biden-step-aside.jpg
 author: Uncommitted NJ
-email: press@uncommitted.org
+email: press@uncommittednj.org
 phone: (201) 844-8633
 ---
 

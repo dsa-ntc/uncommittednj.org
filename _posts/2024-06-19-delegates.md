@@ -5,7 +5,7 @@ description: Press release following the NJ Democratic Primary on June 4th
 layout: post
 image: /assets/uncommitted-square.jpg
 author: Uncommitted NJ
-email: press@uncommitted.org
+email: press@uncommittednj.org
 phone: (201) 844-8633
 ---
 

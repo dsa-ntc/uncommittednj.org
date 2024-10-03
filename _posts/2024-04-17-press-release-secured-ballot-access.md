@@ -5,7 +5,7 @@ description: All counties may now vote Uncommitted in the June 4th Democratic Pr
 layout: post
 image: /assets/uncommitted.png
 author: Uncommitted NJ
-email: press@uncommitted.org
+email: press@uncommittednj.org
 phone: (201) 844-8633
 ---
 

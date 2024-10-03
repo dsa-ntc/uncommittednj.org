@@ -5,7 +5,7 @@ description: Press release for the Uncommitted NJ Campaign, Thursday May 2nd, 20
 layout: post
 image: /assets/uncommitted-square.jpg
 author: Uncommitted NJ
-email: press@uncommitted.org
+email: press@uncommittednj.org
 phone: (201) 844-8633
 ---
 

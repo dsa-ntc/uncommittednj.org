@@ -5,7 +5,7 @@ description: Press release on the new Uncommitted NJ Campaign
 layout: post
 image: /assets/no-votes-for-genocide.jpg
 author: Uncommitted NJ
-email: press@uncommitted.org
+email: press@uncommittednj.org
 phone: (201) 844-8633
 ---
 
