@@ -1,0 +1,19 @@
+- name: No Ceasefire No Vote
+  state: Pennsylvania
+  img: ncnv-logo-sm.webp
+  url: https://noceasefirenovotepa.com
+
+- name: No Peace, No Peach
+  state: Georgia
+  img: nopeacenopeach.png
+  url: https://nopeacenopeach.com
+
+- name: Ceasefire First. Votes Next.
+  state: Wisconsin
+  img: nv4gwi.png
+  url: https://listentowisconsin.com
+
+- name: No Votes for Genocide VA
+  state: Virginia
+  img: va.jpg
+  url: https://novotesforgenocideva.com

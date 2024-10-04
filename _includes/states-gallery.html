@@ -1,0 +1,13 @@
+<div class="endorsements-gallery">
+  {% assign images = site.data.states %}
+  {% for file in images %}
+    <div class="img-end">
+      <figure>
+        <a href="{{ file.url }}">
+          <img class="img-end-gallery" src="/assets/{{ file.img }}" height=120px/>
+          <figcaption class="img-end-text img-end-text-square">[{{ file.state }}] {{ file.name }}</figcaption>
+        </a>
+      </figure>
+    </div>
+  {% endfor %}
+</div>
