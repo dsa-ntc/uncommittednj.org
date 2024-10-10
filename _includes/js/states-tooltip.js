@@ -25,7 +25,7 @@ document.addEventListener('mouseover', function (e) {
         var petitionImgUrl = "/assets/" + state.img;
 
         petitionImg.setAttribute("src", petitionImgUrl);
-        petitionImg.setAttribute("height", "100px");
+        petitionImg.setAttribute("max-height", "100px");
 
         tooltipSpan.appendChild(petitionImg);
         tooltipSpan.style.opacity = "100%";

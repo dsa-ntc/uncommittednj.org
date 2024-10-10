@@ -609,3 +609,10 @@ figcaption {
   transition: opacity .4s ease;
   z-index: 1;
 }
+
+#details-box > img {
+  max-width: 200px;
+  max-height: 150px;
+  height: auto;
+  object-fit: contain;
+}

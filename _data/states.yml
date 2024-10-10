@@ -21,3 +21,15 @@ va:
   state: Virginia
   img: nv4gva.png
   url: http://novotesforgenocideva.com
+
+ct:
+  name: No Votes for Genocide CT
+  state: Connecticut
+  img: ctlogo.png
+  url: https://actionnetwork.org/petitions/rhode-islanders-say-no-votes-for-genocide
+
+ri:
+  name: No Votes for Genocide RI
+  state: Rhode Island
+  img: rilogo.png
+  url: https://actionnetwork.org/letters/no-votes-for-genocide-2/
