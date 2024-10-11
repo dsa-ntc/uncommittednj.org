@@ -33,3 +33,9 @@ ri:
   state: Rhode Island
   img: rilogo.png
   url: https://actionnetwork.org/letters/no-votes-for-genocide-2/
+
+az:
+  name: Give Us a Reason to Vote
+  state: Arizona
+  img: gotv_logo.png
+  url: https://actionnetwork.org/petitions/pledge4palestine/

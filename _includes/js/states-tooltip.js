@@ -16,6 +16,7 @@ console.log("hi");
 
 document.addEventListener('mouseover', function (e) {
     var stateAbbrev = e.target.classList[0];
+    console.log(stateAbbrev);
     if (e.target.tagName == 'path' && e.target.classList[1] == "swing") {
         if (tooltipSpan.firstChild != null) {
           tooltipSpan.removeChild(tooltipSpan.firstChild); 
