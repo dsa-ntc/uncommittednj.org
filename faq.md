@@ -57,7 +57,7 @@ oppression no matter who is in the White House.
 
 ## How can I get involved?
 
-[Take our pledge](https://volunteeruncommittednj.carrd.co) and commit to
+[Take our pledge](https://actionnetwork.org/petitions/no-votes-for-genocide/) and commit to
 sharing it with three people you know. Visit our [Relational
 Toolkit](https://docs.google.com/document/d/1kBVWczC3ucztdEnJ23zw-UUi-arTRHGoBSR4x7jaF2E/edit?tab=t.0)
 for advice on how to have organizing conversations in your community.
