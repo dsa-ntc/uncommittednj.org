@@ -15,7 +15,7 @@ include_scripts:
 
 
 * [Take the
-  pledge]("https://actionnetwork.org/petitions/no-votes-for-genocide/") and
+  pledge](https://actionnetwork.org/petitions/no-votes-for-genocide/) and
   commit to sharing it with three people you know. Visit our Relational Toolkit
   for advice on how to have organizing conversations in your community.
 * Reach out to us via email or social media if you want to help us organize
