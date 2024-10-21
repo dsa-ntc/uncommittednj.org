@@ -1,10 +1,30 @@
 ---
-title: Uncommitted Pledge
+title: No Votes for Genocide Pledge
 permalink: "/pledge/"
-description: Take the pledge to vote uncommitted in the NJ primary on June 4th 2024.
+description: Take the pledge to withhold your vote unless there is an arms embargo on Election Day.
 layout: default
 image: /assets/vote-uncommitted-pa.jpg
+include_scripts: 
+  - js/states-tooltip.js
 ---
 
-<iframe data-tally-src="https://tally.so/embed/mV0dgv?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1483" frameborder="0" marginheight="0" marginwidth="0" title="#VoteUncommittedPledge"></iframe><script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
+# Take the pledge!
+
+![No Votes for Genocide Banner](/assets/nv4g-logos.jpeg)
+
+
+* [Take the
+  pledge]("https://actionnetwork.org/petitions/no-votes-for-genocide/") and
+  commit to sharing it with three people you know. Visit our Relational Toolkit
+  for advice on how to have organizing conversations in your community.
+* Reach out to us via email or social media if you want to help us organize
+and canvass in your community.
+* **Find down-ballot anti-genocide candidates in your area:
+[voteforpeace.info](https://voteforpeace.info)**
+
+<div id="home"> <div class="prelude">
+
+<p style="font-weight: bold">Sign your state's petition here:</p>
+
+{% include states-gallery.html %} </div> </div>

@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: "/faq"
-description: Answers to common questions about Vote Uncommitted.
+description: Answers to common questions about No Votes for Genocide.
 layout: default
 image: /assets/vote-uncommitted-pa.jpg
 ---
@@ -10,54 +10,54 @@ image: /assets/vote-uncommitted-pa.jpg
 
 {{ page.description }}
 
-## How will this help stop the genocide?
+## What separates your campaign from others?
 
-Voting "Uncommitted" will let the Democratic Party and general public know
-what's at stake and how many voters they're losing over their unwavering
-position on the genocide in Gaza. This will pressure the Biden administration to
-reconsider their position and call for a ceasefire.
+Our campaign intends to use what remains of our electoral leverage to elicit an
+arms embargo from the Biden administration by positioning ourselves as
+moveable. Our petition states that if the Biden administration delivers an arms
+embargo prior to Nov. 5th, the Harris campaign can earn our votes. We believe
+that our position as moveable incentivizes the administration to respond to us
+rather than discount us as unwinnable.
 
-## Do I have to be registered as a Democrat?
+## Why include down-ballot candidates? What about Democrats like Rashida Tlaib? 
 
-Yes, you do in order to vote in the Democratic Presidential Primary Election on
-June 4, 2024 in NJ.
+We believe that the entirety of the Democratic Party is complicit in this
+genocide and that there are concessions to be extracted at the national,
+statewide, and local levels on the issue of Palestine whether it be
+Congressional votes on funding or local auctions of Palestinian land in Zionist
+communities. Leveraging our votes down-ballot increases the likelihood of a
+response from Democratic Party members. We encourage anyone who supports this
+campaign to use their best judgement when considering voting for Democratic
+Party candidates who have been supportive of the Palestinian cause.  
 
-## Shouldn't I just switch my registration to Undeclared?
+## I’m in a swing state and I worry that a Trump presidency will be worse. Isn’t your campaign just helping Trump win? 
 
-Being part in this mass action helps your vote apply pressure in an acute,
-intentional, and measurable way that changing your party registration doesn't.
+We understand and acknowledge the threat of a Trump presidency for our
+communities here. We also feel that if we endorse the Democratic Party as it
+continues to commit genocide, we relinquish our morality and our ability to
+organize an effective left coalition. The Harris campaign has continued to move
+right on Israel and global imperialism, declaring a desire for our military to
+be the “most lethal” in the world, as well as right on issues like immigration,
+policing, and the environment. If we continue to reward the Democratic Party
+for shifting right at the expense of working class interests and the
+livelihoods of those subject to American imperialism, we will never see
+progress or build a meaningful alternative. We encourage you to visit our
+homepage and look at our interactive map to find the statewide No Votes for
+Genocide campaigns happening in your swing state. We believe that the swing
+states understand their political and strategic compositions best and respect
+any differences in our campaigns.
 
-## If I vote Uncommitted for President will I lose my vote for Senate or Congress?
-No! You can still vote for any candidates you choose for Senate, Congress, and
-local positions that are on your ballot. 
-
-## Won't this help Trump win?
-
-Biden needs to earn the votes of his constituents, and that means listening to
-the overwhelming majority who want a ceasefire now. We refuse to believe that we
-must choose the lesser of two evils, especially without any accountability or
-pressure to do what is morally right.
-
-## Do you think this will make a difference in a deep blue state like N.J.?
-
-Governor Murphy only won his re-election by about 84,000 votes which is only
-about 2.5 percent. Which means there are enough registered Democrats fed up with
-the way things are that they will gladly vote for a good cause like ours.
 
 ## What about the marginalized people (Muslim, Black, Hispanic, Queer) who will be vulnerable if Trump is office? 
 
 Other marginalized people in this country have been experiencing unimaginable
-levels of violence and oppression whether there is a Democrat or a Republican in
-office. This is our chance to build power together and fight back against
+levels of violence and oppression whether there is a Democrat or a Republican
+in office. This is our chance to build power together and fight back against
 oppression no matter who is in the White House.
-
-## Is this like what happened in Michigan?
-
-Absolutely! [Listen to Michigan](https://www.listentomichigan.com) is what
-inspired this campaign. Swing states are crucial to the 2024 election, and we're
-following Michigan's lead.
 
 ## How can I get involved?
 
-[Fill out our volunteer
-form!](https://volunteeruncommittednj.carrd.co)
+[Take our pledge](https://volunteeruncommittednj.carrd.co) and commit to
+sharing it with three people you know. Visit our [Relational
+Toolkit](https://docs.google.com/document/d/1kBVWczC3ucztdEnJ23zw-UUi-arTRHGoBSR4x7jaF2E/edit?tab=t.0)
+for advice on how to have organizing conversations in your community.
