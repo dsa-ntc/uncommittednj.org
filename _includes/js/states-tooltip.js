@@ -1,7 +1,5 @@
 var tooltipSpan = document.getElementById('details-box');
 var stateList = {{ site.data.states | json | replace: '=>', ':'}}
-console.log(stateList);
-console.log("hi");
 
 /*        window.addEventListener("load", (e) => {
           var els = document.querySelectorAll(".swing");
