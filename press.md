@@ -1,13 +1,15 @@
 ---
-title: Uncommitted NJ Campaign Press Coverage 
+title: Uncommitted NJ Campaign Press Coverage
 permalink: "/press-coverage"
-description: Uncommitted NJ is making a splash in the news. 
+description: Uncommitted NJ is making a splash in the news.
 layout: default
 date: 2024-04-02
 image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- Democratic Left: [“Uncommitted” Organizers Support “No Votes for Genocide” Campaigns](https://www.dsausa.org/democratic-left/uncommitted-organizers-support-no-votes-for-genocide-campaigns/) (October 22nd, 2024)
+- [No Votes for Genocide Reiterates Call for an Immediate Arms Embargo](https://docs.google.com/document/d/1AALFfUdgsjkXwF6tCFSmbdMyfE60A84jWnZpG21qJhs/mobilebasic) (October 20th, 2024)
 
 - WFMU: [Jake Ephros on This Is The Modern World with Trouble to talk about
   Uncommitted
