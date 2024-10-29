@@ -3,9 +3,9 @@ title: No Votes for Genocide
 timezone: America/New_York
 description: Until an arms embargo and a permanent ceasefire are in place, withold any votes for Democrats. From Uncommitted NJ.
 url: novotesforgenocide.org
-logo: "/assets/vote-uncommitted.jpg"
+logo: "/assets/nv4g-logo.png"
 image:
-  path: "/assets/vote-uncommitted.jpg"
+  path: "/assets/nvfg-postcard.png"
   alt: "Uncommitted logo"
 highlighter: rouge
 markdown: kramdown
