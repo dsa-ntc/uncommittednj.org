@@ -19,9 +19,6 @@ include_scripts:
 * If you are in a swing state we encourage you to visit the campaign pages of your statewide campaigns listed on our website to learn how to get involved in your community.
 * **Find down-ballot anti-genocide candidates in your area:
   [voteforpeace.info](https://voteforpeace.info)**
+* Sign your state's petition below!
 
-<div id="home"> <div class="prelude">
-
-<p style="font-weight: bold">Sign your state's petition here:</p>
-
-{% include states-gallery.html %} </div> </div>
+{% include states-gallery.html %}
