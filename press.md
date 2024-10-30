@@ -1,5 +1,5 @@
 ---
-title: Uncommitted NJ Campaign Press Coverage
+title: Press Coverage
 permalink: "/press-coverage"
 description: Uncommitted NJ is making a splash in the news.
 layout: default
@@ -8,6 +8,9 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+
+- NJ Spotlight News: [Are Democrats’ Gaza policies pushing some voters to third-party candidates?](https://www.njspotlightnews.org/2024/10/democratic-partys-gaza-policies-push-left-leaning-voters-toward-third-parties/) (October 29th, 2024)
+
 - Democratic Left: [“Uncommitted” Organizers Support “No Votes for Genocide” Campaigns](https://www.dsausa.org/democratic-left/uncommitted-organizers-support-no-votes-for-genocide-campaigns/) (October 22nd, 2024)
 - [No Votes for Genocide Reiterates Call for an Immediate Arms Embargo](https://docs.google.com/document/d/1AALFfUdgsjkXwF6tCFSmbdMyfE60A84jWnZpG21qJhs/mobilebasic) (October 20th, 2024)
 
