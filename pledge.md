@@ -11,7 +11,7 @@ include_scripts:
 
 # Take the pledge!
 
-![No Votes for Genocide Banner](/assets/nv4g-logos.jpeg)
+![No Votes for Genocide Banner](/assets/nv4g-logos2.jpeg)
 
 
 * [Take the pledge](https://actionnetwork.org/petitions/no-votes-for-genocide/) and commit to sharing it with three people you know. Visit our [Relational Toolkit](https://docs.google.com/document/d/1kBVWczC3ucztdEnJ23zw-UUi-arTRHGoBSR4x7jaF2E/edit?tab=t.0) for advice on how to have organizing conversations in your community.
