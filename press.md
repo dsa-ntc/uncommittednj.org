@@ -8,13 +8,12 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+
 - CovertAction Bulletin: [Activists Take on Elections: No Votes for Genocide](https://covertactionmagazine.com/2024/10/30/covertaction-bulletin-activists-take-on-elections-no-votes-for-genocide/) (October 30th, 2024)
 
-- Official: [No Votes for Genocide Calls Upon Signatories to Uphold Their Pledge](https://docs.google.com/document/d/1eWPWPHCsX58cVSEiRFbCEBJNNqO8_rnXNhbWo1dbluA/edit?tab=t.0) (October 31st, 2024)
+- NJ Spotlight News: [Are Democrats’ Gaza policies pushing some voters to third-party candidates?](https://www.njspotlightnews.org/2024/10/democratic-partys-gaza-policies-push-left-leaning-voters-toward-third-parties/) (October 29th, 2024)
 
 - [No Votes For Genocide: A Coalitional Conversation](https://youtu.be/ppxV3k9A2qY) (October 27th, 2024)
-
-- NJ Spotlight News: [Are Democrats’ Gaza policies pushing some voters to third-party candidates?](https://www.njspotlightnews.org/2024/10/democratic-partys-gaza-policies-push-left-leaning-voters-toward-third-parties/) (October 29th, 2024)
 
 - Democratic Left: [“Uncommitted” Organizers Support “No Votes for Genocide” Campaigns](https://www.dsausa.org/democratic-left/uncommitted-organizers-support-no-votes-for-genocide-campaigns/) (October 22nd, 2024)
 
