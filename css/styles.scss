@@ -227,6 +227,10 @@ iframe {
   code {
     max-width: 100%;
   }
+  @media (min-width: $breakpoint-sm) {
+      padding: 0 4rem;
+      margin: $spacing-unit / 2 auto;
+  }
 }
 
 .section {
@@ -326,6 +330,12 @@ iframe {
   @media (max-width: $breakpoint-sm) {
     margin-bottom: 0;
   }
+}
+// Nicer looking embedded YT videos
+iframe.video {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    text-indent: 0;
 }
 
 .nav {
