@@ -9,6 +9,8 @@ image: /assets/voteuncommittednj.jpg
 Press Coverage
 ===
 
+- NVFG: [No Votes for Genocide Calls Upon Signatories to Uphold Their Pledge](/uphold-pledge) (October 31st, 2024)
+
 - CovertAction Bulletin: [Activists Take on Elections: No Votes for Genocide](https://covertactionmagazine.com/2024/10/30/covertaction-bulletin-activists-take-on-elections-no-votes-for-genocide/) (October 30th, 2024)
 
 - NJ Spotlight News: [Are Democrats’ Gaza policies pushing some voters to third-party candidates?](https://www.njspotlightnews.org/2024/10/democratic-partys-gaza-policies-push-left-leaning-voters-toward-third-parties/) (October 29th, 2024)
