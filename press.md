@@ -17,7 +17,7 @@ Press Coverage
 
 - Daily Egyptian: [Democratic Socialists of America hold ‘No Votes For Genocide’ protest](https://dailyegyptian.com/119344/news/democratic-socialist-of-america-hold-no-votes-for-genocide-protest/) (October 28th, 2024)
 
-- [No democrata Connecticut, há afro-americanos e Gen-Zs que não votam em Kamala Harris](https://observador.pt/especiais/no-democrata-connecticut-ha-afro-americanos-e-gen-zs-que-nao-votam-em-kamala-harris/) (October 28th, 2024)
+- Observador.pt: [No democrata Connecticut, há afro-americanos e Gen-Zs que não votam em Kamala Harris](https://observador.pt/especiais/no-democrata-connecticut-ha-afro-americanos-e-gen-zs-que-nao-votam-em-kamala-harris/) (October 28th, 2024)
 
 - [No Votes For Genocide: A Coalitional Conversation](https://youtu.be/ppxV3k9A2qY) (October 27th, 2024)
 
