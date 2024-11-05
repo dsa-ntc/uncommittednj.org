@@ -9,74 +9,41 @@ image: /assets/voteuncommittednj.jpg
 Press Coverage
 ===
 - Boston Globe: [Rejecting Trump and Harris on Gaza, Massachusetts Uncommitted recommends third-party vote, splitting from national group](https://www.bostonglobe.com/2024/11/04/metro/mass-uncommitted-movement-third-party-gaza/) (November 4th, 2024)
-
 - The Intercept:  [“Every Choice Is Loss”: Voters on Their Decision Amid Genocide in Gaza]( https://theintercept.com/2024/11/01/voters-election-harris-trump-israel-gaza/) (November 1st, 2024)
 - Mondoweiss: [On vote shaming, and lesser evils](https://mondoweiss.net/2024/11/on-vote-shaming-and-lesser-evils/) (November 1st, 2024)
 - In These Times: [It's Not Too Late for Kamala Harris to Earn Votes Like Mine](https://inthesetimes.com/article/kamala-harris-democrats-palestinians-arms-embargo) (October 31s, 2024)
 - Portland Press Herald: Opinion: [In Maine, dissent is on the ballot without dilemma](https://www.pressherald.com/2024/10/31/opinion-dissent-is-on-the-ballot-this-election/)(October 31st, 2024)
-
 - NVFG: [No Votes for Genocide Calls Upon Signatories to Uphold Their Pledge](/uphold-pledge) (October 31st, 2024)
-
 - CovertAction Bulletin: [Activists Take on Elections: No Votes for Genocide](https://covertactionmagazine.com/2024/10/30/covertaction-bulletin-activists-take-on-elections-no-votes-for-genocide/) (October 30th, 2024)
-
 - NJ Spotlight News: [Are Democrats’ Gaza policies pushing some voters to third-party candidates?](https://www.njspotlightnews.org/2024/10/democratic-partys-gaza-policies-push-left-leaning-voters-toward-third-parties/) (October 29th, 2024)
-
 - Daily Egyptian: [Democratic Socialists of America hold ‘No Votes For Genocide’ protest](https://dailyegyptian.com/119344/news/democratic-socialist-of-america-hold-no-votes-for-genocide-protest/) (October 28th, 2024)
-
 - Observador.pt: [No democrata Connecticut, há afro-americanos e Gen-Zs que não votam em Kamala Harris](https://observador.pt/especiais/no-democrata-connecticut-ha-afro-americanos-e-gen-zs-que-nao-votam-em-kamala-harris/) (October 28th, 2024)
-
 - [No Votes For Genocide: A Coalitional Conversation](https://youtu.be/ppxV3k9A2qY) (October 27th, 2024)
-
 - Democratic Left: [“Uncommitted” Organizers Support “No Votes for Genocide” Campaigns](https://www.dsausa.org/democratic-left/uncommitted-organizers-support-no-votes-for-genocide-campaigns/) (October 22nd, 2024)
-
 - [No Votes for Genocide Reiterates Call for an Immediate Arms Embargo](https://docs.google.com/document/d/1AALFfUdgsjkXwF6tCFSmbdMyfE60A84jWnZpG21qJhs/mobilebasic) (October 20th, 2024)
-
 - WFMU: [Jake Ephros on This Is The Modern World with Trouble to talk about Uncommitted NJ](https://wfmu.org/archiveplayer/?show=140444&archive=253494&starttime=00:56:14)(May 30th, 2024)
-
 <iframe src='https://wfmu.org/archiveplayer/?show=140444&archive=253494&starttime=00:56:14' style='border:0; width:400px; height:200px;'></iframe>
-
 - The Star Ledger Opinion: [Why You Should Vote "Uncommitted" on June  4](https://www.nj.com/opinion/2024/05/why-you-should-vote-uncommitted-on-june-4-opinion.html) (May 22nd, 2024)
-
 - The Philadelphia Inquirer: [New Jersey’s ‘uncommitted’ campaign will look different from Pennsylvania’s. Here’s how.](https://www.inquirer.com/politics/election/nj-uncomitted-campaign-democrats-2024-primary-election-20240520.html) (May 20th, 2024)
-
 - Pod Damn America: [You Get a Tank](https://soundcloud.com/poddamnamerica/you-get-a-tank-wuncommitted-nj) (May 19th, 2024)
-
 - Give Them An Argument: [Nationalism is the Core of Genocide](https://youtu.be/Sg1_-WOzPsw) (May 8th, 2024)
-
 <iframe width="683" height="384" src="https://www.youtube.com/embed/Sg1_-WOzPsw" title="Nationalism is the Core of Genocide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - CounterPunch: [The Uncommitted Campaign in New Jersey: The Fight To End Genocide Continues](https://www.counterpunch.org/2024/05/03/the-uncommitted-campaign-in-new-jersey-the-fight-to-end-genocide-continues/) (May 3rd, 2024)
-
 - Sublation Media: [Is this How We Can STOP Genocide Joe?](https://www.youtube.com/watch?v=opwJsQTK7I8) (May 2nd, 2024)
-
 <iframe width="683" height="384" src="https://www.youtube.com/embed/opwJsQTK7I8" title="Is this How We Can STOP Genocide Joe?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - Democratic Left: [Putting Palestine on the Ballot: An Interview with
   Uncommitted New Jersey
-Organizers](https://www.dsausa.org/democratic-left/putting-palestine-on-the-ballot-an-interview-with-uncommitted-new-jersey-organizers/)
-(May 2nd, 2024)
-
+Organizers](https://www.dsausa.org/democratic-left/putting-palestine-on-the-ballot-an-interview-with-uncommitted-new-jersey-organizers/) (May 2nd, 2024)
 - Left Reckoning: [Vote No On Joe Biden?](https://www.youtube.com/watch?v=AAY0eeVScg8&t=1550s) (April 23rd, 2024)
-
 <iframe width="683" height="384" src="https://www.youtube.com/embed/AAY0eeVScg8" title="LR 166 - Vote No On Joe Biden?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - Varn Vlog: [Palestine Solidarity and the Uncommitted Campaign](https://www.youtube.com/watch?v=6KxpukH0TUA) (April 23rd, 2024)
-
 <iframe width="683" height="384" src="https://www.youtube.com/embed/6KxpukH0TUA" title="Varn Vlog:  Palestine Solidarity and the Uncommitted Campaign" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - NorthJersey.com: [In NJ, a push to vote ‘uncommitted’ to protest Biden support for war in Gaza](https://www.northjersey.com/story/news/politics/elections/2024/04/17/what-is-uncommitted-vote-nj-protest-biden-gaza-primary/73295585007/) (April 17th, 2024)
-
 <iframe title="NORTHJERSEY-Embed Player" width="540" height="350" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" src="https://uw-media.northjersey.com/embed/video/73346481007?placement=snow-embed"></iframe>
-
-- This is Revolution Podcast: [Solidarity Against the Genocide in Gaza ft. Vote
-  Uncommitted NJ](https://www.youtube.com/watch?v=yO-ByrPpWQs) (April 13th 2024)
-
+- This is Revolution Podcast: [Solidarity Against the Genocide in Gaza ft. Vote Uncommitted NJ](https://www.youtube.com/watch?v=yO-ByrPpWQs) (April 13th 2024)
 <iframe width="683" height="384" src="https://www.youtube.com/embed/yO-ByrPpWQs" title="Solidarity Against the Genocide in Gaza ft. Vote Uncommitted NJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - NJ Spotlight News: [Advocates push NJ Democrats to vote ‘uncommitted’ in protest of Gaza war](https://www.njspotlightnews.org/video/advocates-push-nj-democrats-to-vote-uncommitted-in-protest-of-gaza-war/) (April 9th, 2024)
-
 <iframe width="683" height="384" src="https://www.youtube.com/embed/ccMUo_cKt8w" title="Pushing NJ Dems to vote ‘uncommitted’ in protest of Gaza war" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - New Jersey Monitor: ['Uncommitted' movement to press Biden on Gaza lands in New Jersey](https://newjerseymonitor.com/2024/04/03/uncommitted-movement-to-press-biden-on-gaza-lands-in-new-jersey/) (April 3rd, 2024)
 - Socialist Call [New Jersey Can Finish the “Uncommitted” Protest Vote That Michigan Started](https://socialistcall.com/2024/04/01/new-jersey-uncommitted-campaign-dsa-biden/) (April 1st, 2024)
 - The New York Times: [Angry over Gaza, Democratic Activists in New Jersey encourage 'uncommitted' vote.](https://www.nytimes.com/live/2024/03/31/us/trump-biden-election#uncommitted-biden-gaza) (March 31st, 2024)
