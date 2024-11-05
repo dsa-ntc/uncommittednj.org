@@ -8,6 +8,12 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- Boston Globe: [Rejecting Trump and Harris on Gaza, Massachusetts Uncommitted recommends third-party vote, splitting from national group](https://www.bostonglobe.com/2024/11/04/metro/mass-uncommitted-movement-third-party-gaza/) (November 4th, 2024)
+
+- The Intercept:  [“Every Choice Is Loss”: Voters on Their Decision Amid Genocide in Gaza]( https://theintercept.com/2024/11/01/voters-election-harris-trump-israel-gaza/) (November 1st, 2024)
+- Mondoweiss: [On vote shaming, and lesser evils](https://mondoweiss.net/2024/11/on-vote-shaming-and-lesser-evils/) (November 1st, 2024)
+- In These Times: [It's Not Too Late for Kamala Harris to Earn Votes Like Mine](https://inthesetimes.com/article/kamala-harris-democrats-palestinians-arms-embargo) (October 31s, 2024)
+- Portland Press Herald: Opinion: [In Maine, dissent is on the ballot without dilemma](https://www.pressherald.com/2024/10/31/opinion-dissent-is-on-the-ballot-this-election/)(October 31st, 2024)
 
 - NVFG: [No Votes for Genocide Calls Upon Signatories to Uphold Their Pledge](/uphold-pledge) (October 31st, 2024)
 
