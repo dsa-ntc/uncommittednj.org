@@ -8,6 +8,7 @@ image: /assets/voteuncommittednj.jpg
 ---
 Press Coverage
 ===
+- NVFG: [In the Face of a Right-Wing Sweep, the Fight for a Free Palestine Continues](/fight-for-palestine) (November 6th, 2024)
 - Boston Globe: [Rejecting Trump and Harris on Gaza, Massachusetts Uncommitted recommends third-party vote, splitting from national group](https://www.bostonglobe.com/2024/11/04/metro/mass-uncommitted-movement-third-party-gaza/) (November 4th, 2024)
 - The Intercept:  [“Every Choice Is Loss”: Voters on Their Decision Amid Genocide in Gaza]( https://theintercept.com/2024/11/01/voters-election-harris-trump-israel-gaza/) (November 1st, 2024)
 - Mondoweiss: [On vote shaming, and lesser evils](https://mondoweiss.net/2024/11/on-vote-shaming-and-lesser-evils/) (November 1st, 2024)
