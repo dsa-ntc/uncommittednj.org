@@ -219,14 +219,17 @@ iframe {
 }
 
 .wrapper {
-  max-width: 700px;
   margin: 0 auto;
-
+  padding: 0 1rem;;
   iframe,
   img,
   pre.highlight,
   code {
     max-width: 100%;
+  }
+  @media (min-width: $breakpoint-sm) {
+      padding: 0 4rem;
+      margin: $spacing-unit / 2 auto;
   }
 }
 
@@ -328,6 +331,12 @@ iframe {
     margin-bottom: 0;
   }
 }
+// Nicer looking embedded YT videos
+iframe.video {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    text-indent: 0;
+}
 
 .nav {
   align-items: center;
@@ -411,6 +420,9 @@ iframe {
       margin-top: $spacing-unit;
     }
   }
+  .home-body{
+      text-align: left;
+      text-indent: 2.5rem;};
 }
 
 // Post / Entry
