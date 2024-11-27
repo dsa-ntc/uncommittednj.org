@@ -16,7 +16,7 @@ Our campaign intends to use what remains of our electoral leverage to elicit an 
 
 ## Why include down-ballot candidates? What about Democrats like Rashida Tlaib?
 
-We believe that the entirety of the Democratic Party is complicit in this genocide and that there are concessions to be extracted at the national, statewide, and local levels on the issue of Palestine whether it be Congressional votes on funding or local auctions of Palestinian land in Zionist communities. Leveraging our votes down-ballot increases the likelihood of a response from Democratic Party members. We encourage anyone who supports this campaign to use their best judgment when considering voting for Democratic Party candidates who have been supportive of the Palestinian cause.
+We believe that the entirety of the Democratic Party is complicit in this genocide and that there are concessions to be extracted at the national, statewide, and local levels on the issue of Palestine whether it be Congressional votes on funding or local auctions of Palestinian land in Zionist communities. Leveraging our votes down-ballot increases the likelihood of a response from Democratic Party members, except for the small minority who have committed to fighting for an arms embargo and end to the genocide, like Rashida Tlaib.
 
 ## I’m in a swing state and I worry that a Trump presidency will be worse. Isn’t your campaign just helping Trump win?
 
